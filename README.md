@@ -55,5 +55,5 @@ Estimated: **1 hour**
 #### Description:
 Automatic conversion from png to WebP should be implemented so editors don't need to think about it. Image styles need to be changed too. We need to implement php extension Imagick and set it up. We need to convert all images besides logos, charts and icons.
 ### Task size:
-<br />Estimated: **4 hours**
-Spent: **4 hours**
+Estimated: **4 hours**
+<br />Spent: **4 hours**
